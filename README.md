@@ -7,5 +7,5 @@
   3. A Collaboration Tool with QA Testers
 
 ### Audience:
-1. Prodigy QA
-2. Prodigy Dev
+1. Dev
+2. QA
