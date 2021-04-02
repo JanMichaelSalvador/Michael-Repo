@@ -1,4 +1,4 @@
-# Michael-Repo-for-Prodigy
+# Michael-Repo-Sample
 
 ### The purpose of this repo is to show how I previously used Github as:
 
@@ -7,5 +7,5 @@
   3. A Collaboration Tool with QA Testers
 
 ### Audience:
-1. Alan Klebanskyj (Prodigy QA)
-2. Dale Seo (Prodigy Dev)
+1. Prodigy QA
+2. Prodigy Dev
